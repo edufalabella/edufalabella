@@ -48,6 +48,7 @@ Atualmente, estou focado em me aprofundar nas seguintes tecnologias:
 Tenho grande interesse na **causa do autismo**, o que me levou a iniciar uma **licenciatura em Educação Especial**. Planejo seguir com uma **pós-graduação em autismo**, com o objetivo de criar **soluções tecnológicas inclusivas** e promover uma educação mais acessível.
 
 Sou **cristão**, e creio na obra de Cristo na cruz. Minha fé direciona minhas escolhas, meus valores e o propósito de cada projeto que desenvolvo.
+> _"E eles disseram: Crê no Senhor Jesus Cristo e serás salvo, tu e a tua casa."_ — Atos 16:31
 
 ---
 
@@ -66,4 +67,3 @@ Sou **cristão**, e creio na obra de Cristo na cruz. Minha fé direciona minhas 
 
 Se você também acredita na força da tecnologia aliada à educação, ou quer trocar experiências sobre desenvolvimento, inclusão ou formação profissional — será um prazer conectar!
 
-> _"
