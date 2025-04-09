@@ -26,7 +26,7 @@ Atualmente, estou focado em me aprofundar nas seguintes tecnologias:
 | UI Design para Iniciantes | ✅ 100% | 17h |
 | CSS Flexbox | ✅ 100% | 3h |
 | CSS Grid Layout | ✅ 100% | 5h |
-| JavaScript Completo ES6 | 🔄 38% | 37h |
+| JavaScript Completo ES6 | 🔄 38% | 97h |
 | React Completo | 🔄 1% | 18h |
 | Tailwind CSS | 🔄 2% | 8h |
 | TypeScript para Iniciantes | 🔄 | 11h |
