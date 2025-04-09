@@ -54,7 +54,9 @@ Se você também acredita na força da tecnologia aliada à educação, ou quer 
 
 ## 🐍 Snake comendo meus commits
 
-<p align="center">
-  <img src="https://github.com/edufalabella/edufalabella/blob/gh-pages/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="Snake animation" src="dist/github-snake.svg" />
+</picture>
 
