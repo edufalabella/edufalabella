@@ -17,7 +17,7 @@ Atualmente, estou focado em me aprofundar nas seguintes tecnologias:
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
-
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ## 💙 Inclusão, Educação e Propósito
 
@@ -25,15 +25,6 @@ Tenho grande interesse na **causa do autismo**, o que me levou a iniciar uma **l
 
 Sou **cristão**, e creio na obra de Cristo na cruz. Minha fé direciona minhas escolhas, meus valores e o propósito de cada projeto que desenvolvo.
 > _"E eles disseram: Crê no Senhor Jesus Cristo e serás salvo, tu e a tua casa."_ — Atos 16:31
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=edufalabella&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufalabella&layout=compact&theme=tokyonight" />
-</div>
 
 ---
 
