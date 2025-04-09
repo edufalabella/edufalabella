@@ -52,4 +52,9 @@ Se você também acredita na força da tecnologia aliada à educação, ou quer 
   <i>“Compartilhar conhecimento transforma vidas.”</i>
 </p>
 
+## 🐍 Snake comendo meus commits
+
+<p align="center">
+  <img src="https://github.com/edufalabella/edufalabella/blob/gh-pages/github-contribution-grid-snake.svg" />
+</p>
 
