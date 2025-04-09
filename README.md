@@ -8,40 +8,16 @@ Sou um profissional com sólida experiência em **Tecnologia da Informação**, 
 
 Atualmente, estou focado em me aprofundar nas seguintes tecnologias:
 
-- **HTML5 & CSS3**
-- **JavaScript (ES6+)**
-- **React + TypeScript**
-- **Next.js**
-- **Tailwind CSS**
-- **SASS**
-- **Bootstrap**
-- **WordPress como CMS + REST API**
-- **UX/UI Design**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
 
-🎓 Estou aprendendo com dedicação e já concluí ou estou cursando:
-
-| Curso | Progresso | Horas |
-|-------|-----------|--------|
-| HTML e CSS para Iniciantes | ✅ 100% | 23h |
-| UI Design para Iniciantes | ✅ 100% | 17h |
-| CSS Flexbox | ✅ 100% | 3h |
-| CSS Grid Layout | ✅ 100% | 5h |
-| JavaScript Completo ES6 | 🔄 38% | 97h |
-| React Completo | 🔄 1% | 18h |
-| Tailwind CSS | 🔄 2% | 8h |
-| TypeScript para Iniciantes | 🔄 | 11h |
-| React com TypeScript | 🔄 | 5h |
-| Next.js | 🔄 | 11h |
-| UX Design Heurísticas | 🔄 | 8h |
-| CSS com SASS | 🔄 | 6h |
-| Tipografia Avançada | 🔄 | 12h |
-| WordPress REST API / CMS | 🔄 | 11h |
-| Vue.js 2 Completo | 🔄 | 22h |
-| ...e outros!
-
-🧪 Em constante aprendizado e aplicando esse conhecimento em projetos e práticas reais.
-
----
 
 ## 💙 Inclusão, Educação e Propósito
 
@@ -49,6 +25,15 @@ Tenho grande interesse na **causa do autismo**, o que me levou a iniciar uma **l
 
 Sou **cristão**, e creio na obra de Cristo na cruz. Minha fé direciona minhas escolhas, meus valores e o propósito de cada projeto que desenvolvo.
 > _"E eles disseram: Crê no Senhor Jesus Cristo e serás salvo, tu e a tua casa."_ — Atos 16:31
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=edufalabella&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufalabella&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
@@ -66,4 +51,14 @@ Sou **cristão**, e creio na obra de Cristo na cruz. Minha fé direciona minhas 
 ## 🤝 Vamos conectar?
 
 Se você também acredita na força da tecnologia aliada à educação, ou quer trocar experiências sobre desenvolvimento, inclusão ou formação profissional — será um prazer conectar!
+<p align="center">
+  <a href="https://www.linkedin.com/in/falabellaeduardo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>“Compartilhar conhecimento transforma vidas.”</i>
+</p>
+
 
