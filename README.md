@@ -44,7 +44,7 @@ Sou **cristão**, e creio na obra de Cristo na cruz. Minha fé direciona minhas 
 
 # 🎨 Desafios do Frontend Mentor
 
-Gosto de exercitar minhas habilidades com os desafios do [Frontend Mentor], onde posso aplicar práticas modernas de desenvolvimento, focando em acessibilidade, responsividade e código limpo.
+Gosto de exercitar minhas habilidades com os desafios do Frontend Mentor, onde posso aplicar práticas modernas de desenvolvimento, focando em acessibilidade, responsividade e código limpo.
 
 > 💡 _Esses projetos simulam cenários reais de front-end e me ajudam a manter o ritmo de aprendizado constante._
 
