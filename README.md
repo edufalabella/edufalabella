@@ -29,14 +29,16 @@ Sou **cristão**, e creio na obra de Cristo na cruz. Minha fé direciona minhas 
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 💻 Projetos
 
-- 🌐 **Front-End**: HTML, CSS, JavaScript, React, TypeScript, Tailwind, SASS, Bootstrap
-- 🧩 **UI/UX Design**
-- 🔌 **APIs REST** (com WordPress)
-- 💡 **Criação de Websites com WordPress**
-- 💼 **Infraestrutura, Redes e Segurança da Informação**
-- 🎓 **Educação Profissional e Projetos Educacionais**
+- Esses são alguns dos sites que desenvolvi — todos foram construídos por mim, com atenção ao design, performance e propósito. Estou organizando meu portfólio completo em breve!
+
+- 🔗 [pelagraca.com.br](https://pelagraca.com.br)  
+- 🔗 [acervodigitalcristao.com.br](https://acervodigitalcristao.com.br)  
+- 🔗 [radio.pelagraca.com.br](https://radio.pelagraca.com.br)  
+- 🔗 [lojalinetex.ind.br](https://lojalinetex.ind.br)  
+- 🔗 [rodisa.com.br](https://rodisa.com.br)  
+- 🔗 [cesgestao.com](https://cesgestao.com)
 
 ---
 
