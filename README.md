@@ -52,7 +52,7 @@ Gosto de exercitar minhas habilidades com os desafios do [Frontend Mentor](https
 
 | Projeto | Preview | Código |
 |--------|---------|--------|
-| **Product Preview Card** | [🔗 Ver online]([https://falabellaeduardo.github.io/frontendmentor-product-preview-card/](https://edufalabella.github.io/01-qr-code-component-main/)) | [📦 Repositório](https://github.com/edufalabella/01-qr-code-component-main) | (https://github.com/falabellaeduardo/frontendmentor-product-preview-card) |
+| **Product Preview Card** | [🔗 Ver online](https://edufalabella.github.io/01-qr-code-component-main/)  | [📦 Repositório](https://github.com/edufalabella/01-qr-code-component-main) | (https://github.com/falabellaeduardo/frontendmentor-product-preview-card) |
 
 
 > 🔧 Em constante atualização — novos desafios em breve!
