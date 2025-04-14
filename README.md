@@ -42,6 +42,23 @@ Sou **cristão**, e creio na obra de Cristo na cruz. Minha fé direciona minhas 
 
 ---
 
+# 🎨 Desafios do Frontend Mentor
+
+Gosto de exercitar minhas habilidades com os desafios do [Frontend Mentor](https://www.frontendmentor.io/profile/falabellaeduardo), onde posso aplicar práticas modernas de desenvolvimento, focando em acessibilidade, responsividade e código limpo.
+
+> 💡 _Esses projetos simulam cenários reais de front-end e me ajudam a manter o ritmo de aprendizado constante._
+
+### 📌 Alguns desafios concluídos:
+
+| Projeto | Preview | Código |
+|--------|---------|--------|
+| **Product Preview Card** | [🔗 Ver online]([https://falabellaeduardo.github.io/frontendmentor-product-preview-card/](https://edufalabella.github.io/01-qr-code-component-main/)) | [📦 Repositório](https://github.com/edufalabella/01-qr-code-component-main) | (https://github.com/falabellaeduardo/frontendmentor-product-preview-card) |
+
+
+> 🔧 Em constante atualização — novos desafios em breve!
+
+---
+
 ## 🤝 Vamos conectar?
 
 Se você também acredita na força da tecnologia aliada à educação, ou quer trocar experiências sobre desenvolvimento, inclusão ou formação profissional — será um prazer conectar!
