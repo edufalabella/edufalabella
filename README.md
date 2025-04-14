@@ -70,5 +70,3 @@ Se você também acredita na força da tecnologia aliada à educação, ou quer 
 <p align="center">
   <i>“Compartilhar conhecimento transforma vidas.”</i>
 </p>
-
-<img src="https://raw.githubusercontent.com/edufalabella/edufalabella/output/snake.svg" alt="Snake animation" />
