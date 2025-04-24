@@ -52,6 +52,7 @@ Gosto de exercitar minhas habilidades com os desafios do Frontend Mentor, onde p
 | Projeto | Preview | Código |
 |--------|---------|--------|
 | **Product Preview Card** | [🔗 Ver online](https://edufalabella.github.io/01-qr-code-component-main/)  | [📦 Repositório](https://github.com/edufalabella/01-qr-code-component-main) | (https://github.com/falabellaeduardo/frontendmentor-product-preview-card) |
+| **Social Proof Ssection** | [🔗 Ver online](https://github.com/edufalabella/social-proof-section-master)  | [📦 Repositório]([https://github.com/edufalabella/01-qr-code-component-main](https://edufalabella.github.io/social-proof-section-master/)) | (https://github.com/falabellaeduardo/frontendmentor-product-preview-card) |
 
 
 > 🔧 Em constante atualização — novos desafios em breve!
