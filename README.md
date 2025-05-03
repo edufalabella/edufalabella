@@ -22,6 +22,17 @@ Atualmente, estou focado em me aprofundar nas seguintes tecnologias:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
+## 🔧 Desenvolvimento Back-End
+
+Atualmente, estou me aprofundando nas seguintes tecnologias voltadas para o back-end:
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+
 ## 💙 Inclusão, Educação e Propósito
 
 Tenho grande interesse na **causa do autismo**, o que me levou a iniciar uma **licenciatura em Educação Especial**. Planejo seguir com uma **pós-graduação em autismo**, com o objetivo de criar **soluções tecnológicas inclusivas** e promover uma educação mais acessível.
