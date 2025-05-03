@@ -43,8 +43,7 @@ Sou **cristão**, e creio na obra de Cristo na cruz. Minha fé direciona minhas 
 
 # 🎓 Portfólio de Projetos Educacionais
 
-Este repositório reúne alguns dos desafios concluídos no contexto da prática de ensino e desenvolvimento pessoal. Os projetos foram desenvolvidos com o objetivo de explorar habilidades em **HTML**, **CSS** e **responsividade**, sendo utilizados tanto em aulas com alunos quanto como aprimoramento profissional.
-
+Este repositório reúne alguns dos desafios concluídos no contexto da prática de ensino e desenvolvimento pessoal. Os projetos foram desenvolvidos com o objetivo de explorar habilidades em **FRONT-END** e **BACK-END**.
 > 🚀 Em constante evolução — novos projetos e desafios serão adicionados em breve!
 
 ---
