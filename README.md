@@ -24,7 +24,7 @@ Atualmente, estou focado em me aprofundar nas seguintes tecnologias:
 
 ## 🔧 Desenvolvimento Back-End
 
-Atualmente, estou me aprofundando nas seguintes tecnologias voltadas para o back-end:
+Atualmente, estou me aprofundando nas seguintes tecnologias:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
