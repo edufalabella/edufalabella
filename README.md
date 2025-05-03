@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou o Eduardo Falabella
 
-Sou um profissional com sólida experiência em **Tecnologia da Informação**, com histórico nas áreas de infraestrutura, redes e segurança da informação. Nos últimos tempos, tenho me dedicado intensamente ao universo do **Desenvolvimento Web**, com foco especial em **tecnologias Front-End** e no impacto da **tecnologia na educação e inclusão**.
+Sou um profissional com sólida experiência em **Tecnologia da Informação**, com histórico nas áreas de **infraestrutura**, **redes** e **segurança da informação**. Nos últimos tempos, tenho me dedicado intensamente ao universo do **Desenvolvimento Web**, explorando tanto o **Front-End** quanto o **Back-End**.
+Tenho especial interesse no impacto da **tecnologia na educação** e **inclusão**, áreas que considero essenciais para a transformação social e profissional.
 
 ---
 
