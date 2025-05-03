@@ -42,18 +42,6 @@ Sou **cristão**, e creio na obra de Cristo na cruz. Minha fé direciona minhas 
 
 ---
 
-## 💻 Projetos
-
-- Esses são alguns dos sites que desenvolvi — todos foram construídos por mim, com atenção ao design, performance e propósito. Estou organizando meu portfólio completo em breve!
-
-- 🔗 [acervodigitalcristao.com.br](https://acervodigitalcristao.com.br)  
-- 🔗 [lojalinetex.ind.br](https://lojalinetex.ind.br)  
-- 🔗 [rodisa.com.br](https://rodisa.com.br)
-- 🔗 [radio.pelagraca.com.br](https://radio.pelagraca.com.br)
-- 🔗 [cesgestao.com](https://cesgestao.com)
-- 🔗 [pelagraca.com.br](https://pelagraca.com.br)  
----
-
 # 🎓 Portfólio de Projetos Educacionais
 
 Este repositório reúne alguns dos desafios concluídos no contexto da prática de ensino e desenvolvimento pessoal. Os projetos foram desenvolvidos com o objetivo de explorar habilidades em **FRONT-END** e **BACK-END**.
@@ -67,42 +55,6 @@ Este repositório reúne alguns dos desafios concluídos no contexto da prática
 |----------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | **Product Preview Card**   | [🔗 Ver online](https://edufalabella.github.io/01-qr-code-component-main/)       | 🧱Html / 🎨Css      |
 | **Social Proof Section**   | [🔗 Ver online](https://edufalabella.github.io/social-proof-section-master/)     | 🧱Html / 🎨Css           |
-
----
-
-## 🧠 Aplicação Educacional
-
-Cada projeto tem sido uma ferramenta didática valiosa para:
-
-- Ensinar **estruturação semântica de páginas** com HTML.
-- Praticar **estilização moderna e responsiva** com CSS.
-- Trabalhar com **boas práticas de versionamento** no GitHub.
-- Estimular a **aprendizagem baseada em desafios** (Challenge-Based Learning).
-- Incentivar a **autonomia e criatividade dos alunos** ao recriar ou adaptar componentes visuais da web.
-
----
-
-## 📚 Tecnologias Utilizadas
-
-- HTML5
-- CSS3
-- Git & GitHub
-- Ferramentas de inspeção e responsividade do navegador
-
----
-
-## 🤝 Contribuições
-
-Se você é aluno ou educador e deseja colaborar com este portfólio educacional, sinta-se à vontade para abrir uma issue ou enviar um pull request. Vamos juntos fortalecer o aprendizado prático e criativo!
-
----
-
-## 🧑‍🏫 Sobre o Autor
-
-Instrutor de Desenvolvimento de Sistemas com foco em aprendizagem ativa, desafios práticos e construção de competências técnicas e metodológicas. Atuando com projetos integradores, mentorias e oficinas de programação front-end.
-
-📫 Contato: [LinkedIn](https://www.linkedin.com/in/edufalabella/) | [GitHub](https://github.com/edufalabella)
-
 
 ---
 
