@@ -41,21 +41,56 @@ Sou **cristão**, e creio na obra de Cristo na cruz. Minha fé direciona minhas 
 - 🔗 [pelagraca.com.br](https://pelagraca.com.br)  
 ---
 
-# 🎨 Desafios do Frontend Mentor
+# 🎓 Portfólio de Projetos Educacionais
 
-Gosto de exercitar minhas habilidades com os desafios do Frontend Mentor, onde posso aplicar práticas modernas de desenvolvimento, focando em acessibilidade, responsividade e código limpo.
+Este repositório reúne alguns dos desafios concluídos no contexto da prática de ensino e desenvolvimento pessoal. Os projetos foram desenvolvidos com o objetivo de explorar habilidades em **HTML**, **CSS** e **responsividade**, sendo utilizados tanto em aulas com alunos quanto como aprimoramento profissional.
 
-> 💡 _Esses projetos simulam cenários reais de front-end e me ajudam a manter o ritmo de aprendizado constante._
+> 🚀 Em constante evolução — novos projetos e desafios serão adicionados em breve!
 
-### 📌 Alguns desafios concluídos:
+---
 
-| Projeto | Preview | Código |
-|--------|---------|--------|
-| **Product Preview Card** | [🔗 Ver online](https://edufalabella.github.io/01-qr-code-component-main/)  | [📦 Repositório](https://github.com/edufalabella/01-qr-code-component-main) | (https://github.com/falabellaeduardo/frontendmentor-product-preview-card) |
-| **Social Proof Ssection** | [🔗 Ver online](https://edufalabella.github.io/social-proof-section-master/)  | [📦 Repositório](https://github.com/edufalabella/social-proof-section-master) |(https://edufalabella.github.io/social-proof-section-master/)) | (https://github.com/falabellaeduardo/frontendmentor-product-preview-card) |
+## 📌 Projetos Desenvolvidos
 
+| Projeto                     | Preview Online                                                                 | Tecnologia Usada                                                               |
+|----------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| **Product Preview Card**   | [🔗 Ver online](https://edufalabella.github.io/01-qr-code-component-main/)       | 🧱Html / 🎨Css      |
+| **Social Proof Section**   | [🔗 Ver online](https://edufalabella.github.io/social-proof-section-master/)     | 🧱Html / 🎨Css           |
 
-> 🔧 Em constante atualização — novos desafios em breve!
+---
+
+## 🧠 Aplicação Educacional
+
+Cada projeto tem sido uma ferramenta didática valiosa para:
+
+- Ensinar **estruturação semântica de páginas** com HTML.
+- Praticar **estilização moderna e responsiva** com CSS.
+- Trabalhar com **boas práticas de versionamento** no GitHub.
+- Estimular a **aprendizagem baseada em desafios** (Challenge-Based Learning).
+- Incentivar a **autonomia e criatividade dos alunos** ao recriar ou adaptar componentes visuais da web.
+
+---
+
+## 📚 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- Git & GitHub
+- Ferramentas de inspeção e responsividade do navegador
+
+---
+
+## 🤝 Contribuições
+
+Se você é aluno ou educador e deseja colaborar com este portfólio educacional, sinta-se à vontade para abrir uma issue ou enviar um pull request. Vamos juntos fortalecer o aprendizado prático e criativo!
+
+---
+
+## 🧑‍🏫 Sobre o Autor
+
+Instrutor de Desenvolvimento de Sistemas com foco em aprendizagem ativa, desafios práticos e construção de competências técnicas e metodológicas. Atuando com projetos integradores, mentorias e oficinas de programação front-end.
+
+📫 Contato: [LinkedIn](https://www.linkedin.com/in/edufalabella/) | [GitHub](https://github.com/edufalabella)
+
 
 ---
 
