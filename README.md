@@ -56,6 +56,8 @@ Este repositório reúne alguns dos desafios concluídos no contexto da prática
 | **Product Preview Card**   | [🔗 Ver online](https://edufalabella.github.io/01-qr-code-component-main/)       | Html / Css      |
 | **Social Proof Section**   | [🔗 Ver online](https://edufalabella.github.io/social-proof-section-master/)     | Html / Css      |
 | **Caravan**   | [🔗 Ver online](https://edufalabella.github.io/caravan/)     | BootStrap       |
+| **Art**   | [🔗 Ver online](https://edufalabella.github.io/arte-bootstrap/)     | BootStrap       |
+
 
 ---
 
