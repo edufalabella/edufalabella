@@ -47,10 +47,6 @@ Sou **cristão**, e creio na obra de Cristo na cruz. Minha fé direciona minhas 
 Este repositório reúne alguns dos desafios concluídos no contexto da prática de ensino e desenvolvimento pessoal. Os projetos foram desenvolvidos com o objetivo de explorar habilidades em **FRONT-END** e **BACK-END**.
 > 🚀 Em constante evolução — novos projetos e desafios serão adicionados em breve!
 
----
-
-## 📌 Projetos Desenvolvidos
-
 | Projeto                     | Preview Online                                                                 | Tecnologia Usada                                                               |
 |----------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | **Product Preview Card**   | [🔗 Ver online](https://edufalabella.github.io/01-qr-code-component-main/)       | Html / Css      |
