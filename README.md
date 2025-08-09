@@ -53,6 +53,7 @@ Este repositório reúne alguns dos desafios concluídos no contexto da prática
 | **Social Proof Section**   | [🔗 Ver online](https://edufalabella.github.io/social-proof-section-master/)     | Html / Css      |
 | **Portfólio**   | [🔗 Ver online](https://edufalabella.github.io/portfolio-html-css/)      | Html / Css      |
 | **Nexcent**   | [🔗 Ver online](https://edufalabella.github.io/Nexcent/)      | Html / Css      |
+| **QuickFood**   | [🔗 Ver online]([https://edufalabella.github.io/QUICKFOOD/])    | Html / Css      |
 | **Caravan**   | [🔗 Ver online](https://edufalabella.github.io/caravan/)     | BootStrap       |
 | **Art**   | [🔗 Ver online](https://edufalabella.github.io/login-bootstrap/)     | BootStrap       |
 
