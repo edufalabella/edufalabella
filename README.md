@@ -8,7 +8,7 @@ Tenho especial interesse no impacto da **tecnologia na educação** e **inclusã
 
 ## 🎯 Em Foco: Desenvolvimento Front-End
 
-Atualmente, estou focado em me aprofundar nas seguintes tecnologias:
+Atualmente, estou focado em aprender/aprofundar nas seguintes tecnologias:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -24,7 +24,7 @@ Atualmente, estou focado em me aprofundar nas seguintes tecnologias:
 
 ## 🔧 Desenvolvimento Back-End
 
-Atualmente, estou me aprofundando nas seguintes tecnologias:
+Atualmente, estou aprendendo nas seguintes tecnologias:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
