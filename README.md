@@ -54,6 +54,7 @@ Este repositório reúne alguns dos desafios concluídos no contexto da prática
 | **Portfólio**   | [🔗 Ver online](https://edufalabella.github.io/portfolio-html-css/)      | Html / Css      |
 | **Nexcent**   | [🔗 Ver online](https://edufalabella.github.io/Nexcent/)      | Html / Css      |
 | **QuickFood**   | [🔗 Ver online](https://edufalabella.github.io/QUICKFOOD/)      | Html / Css      |
+| **School Sharp**   | [🔗 Ver online](https://edufalabella.github.io/school-sharp/)      | Html / Css      |
 | **Caravan**   | [🔗 Ver online](https://edufalabella.github.io/caravan/)     | BootStrap       |
 | **Art**   | [🔗 Ver online](https://edufalabella.github.io/arte-bootstrap/)     | BootStrap       |
 
