@@ -58,6 +58,7 @@ Este repositório reúne alguns dos desafios concluídos no contexto da prática
 | **Art**   | [🔗 Ver online](https://edufalabella.github.io/arte-bootstrap/)     | BootStrap       |
 | **Tela Login**   | [🔗 Ver online](https://edufalabella.github.io/tela-login-tailwind/)     | Tailwind       |
 | **Uber**   | [🔗 Ver online](https://edufalabella.github.io/uber-tailwind/)     | Tailwind       |
+| **Nike**   | [🔗 Ver online](https://edufalabella.github.io/tenis-nike-tailwind/)     | Tailwind       |
 
 ---
 
