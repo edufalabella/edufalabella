@@ -59,6 +59,8 @@ Este repositório reúne alguns dos desafios concluídos no contexto da prática
 | **Tela Login**   | [🔗 Ver online](https://edufalabella.github.io/tela-login-tailwind/)     | Tailwind       |
 | **Uber**   | [🔗 Ver online](https://edufalabella.github.io/uber-tailwind/)     | Tailwind       |
 | **Nike**   | [🔗 Ver online](https://edufalabella.github.io/tenis-nike-tailwind/)     | Tailwind       |
+| **DevHouse**   | [🔗 Ver online](https://edufalabella.github.io/devHouse-tailwind/#)     | Tailwind       |
+
 
 ---
 
