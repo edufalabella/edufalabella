@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Eduardo%20Falabella&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Instrutor%20%7C%20Desenvolvedor%20%7C%20Educa%C3%A7%C3%A3o%20Inclusiva&descSize=18&descAlignY=58" alt="Eduardo Falabella"/>
 
 <a href="https://github.com/edufalabella">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7F52FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1!+Eu+sou+o+Eduardo+%F0%9F%91%8B;Instrutor+de+Forma%C3%A7%C3%A3o+Profissional+%F0%9F%8E%93;Desenvolvimento+Mobile+%7C+Kotlin+%7C+Flutter+%F0%9F%93%B1;Cloud%3A+AWS+%7C+Azure+%7C+Google+Cloud+%E2%98%81%EF%B8%8F;Educa%C3%A7%C3%A3o+Inclusiva+e+Neurodiversidade+%F0%9F%92%99" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7F52FF&center=true&vCenter=true&width=750&lines=Ol%C3%A1!+Eu+sou+o+Eduardo+%F0%9F%91%8B;Instrutor+de+Forma%C3%A7%C3%A3o+Profissional+%F0%9F%8E%93;Desenvolvimento+WEB%2C+Desenvolvimento+Mobile+%28in+progress%29+%F0%9F%93%B1;Cloud%3A+AWS+%7C+Azure+%7C+Google+Cloud+%E2%98%81%EF%B8%8F;Educa%C3%A7%C3%A3o+Inclusiva+e+Neurodiversidade+%F0%9F%92%99" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -124,7 +124,7 @@ Tudo o que faço é guiado pela **fé em Cristo**.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=edufalabella&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=edufalabella&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=stars&locale=pt-br" alt="Estatísticas do GitHub"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufalabella&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas"/>
 
 <br/>
@@ -133,7 +133,7 @@ Tudo o que faço é guiado pela **fé em Cristo**.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=edufalabella&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade"/>
+<img src="https://ghchart.rshah.org/7F52FF/edufalabella" alt="Mapa de contribuições" width="90%"/>
 
 </div>
 
