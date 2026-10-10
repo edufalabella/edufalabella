@@ -131,10 +131,6 @@ Tudo o que faço é guiado pela **fé em Cristo**.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=edufalabella&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
 
-<br/>
-
-<img src="https://ghchart.rshah.org/7F52FF/edufalabella" alt="Mapa de contribuições" width="90%"/>
-
 </div>
 
 ---
