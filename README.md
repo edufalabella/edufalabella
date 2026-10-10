@@ -139,36 +139,6 @@ Tudo o que faço é guiado pela **fé em Cristo**.
 
 ---
 
-# 🚀 Projetos em Destaque
-
-> Uma seleção dos meus trabalhos. Para ver tudo, acesse [todos os meus repositórios](https://github.com/edufalabella?tab=repositories). Os cards abaixo se atualizam sozinhos com os dados de cada repositório.
-
-<div align="center">
-
-<a href="https://github.com/edufalabella/Nexcent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edufalabella&repo=Nexcent&theme=tokyonight&hide_border=true" alt="Nexcent"/>
-</a>
-<a href="https://github.com/edufalabella/QUICKFOOD">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edufalabella&repo=QUICKFOOD&theme=tokyonight&hide_border=true" alt="QuickFood"/>
-</a>
-
-<a href="https://github.com/edufalabella/devHouse-tailwind">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edufalabella&repo=devHouse-tailwind&theme=tokyonight&hide_border=true" alt="DevHouse"/>
-</a>
-<a href="https://github.com/edufalabella/portfolio-html-css">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edufalabella&repo=portfolio-html-css&theme=tokyonight&hide_border=true" alt="Portfólio"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/edufalabella?tab=repositories">
-  <img src="https://img.shields.io/badge/-Ver%20todos%20os%20projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os projetos"/>
-</a>
-
-</div>
-
----
-
 ## 🤝 Vamos conectar?
 
 Se você também acredita na força da tecnologia aliada à educação, ou quer trocar experiências sobre desenvolvimento, inclusão ou formação profissional, será um prazer conectar!
